@@ -1,0 +1,18 @@
+[
+  "duration",
+  "month",
+  "contact",
+  "poutcome",
+  "day",
+  "job",
+  "age",
+  "housing",
+  "balance",
+  "pdays",
+  "education",
+  "campaign",
+  "marital",
+  "loan",
+  "previous",
+  "default"
+]

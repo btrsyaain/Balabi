@@ -1,0 +1,9 @@
+{
+  "samples": 446450,
+  "total_model_s": 17.963569759001984,
+  "total_mae_s": 0.0,
+  "total_shapley_s": 0.0,
+  "avg_model_ms_per_sample": 0.04023646490984877,
+  "avg_mae_ms_per_sample": 0.0,
+  "avg_shapley_ms_per_sample": 0.0
+}
