@@ -1,0 +1,8 @@
+__pycache__/
+*.model
+*.tar.gz
+raw_data/
+hope.jpg
+label*
+log*
+voting_record.txt
